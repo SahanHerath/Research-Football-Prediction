@@ -54,13 +54,13 @@ Home Win = +1
 Home loss = -1
 Draw = 0
 
-<span style="color: black;">Team attributes</span> 
+Team attributes
 
 All the team attributes are being compared between home team and away team. 
 Each cell is filled with home feature value - away feature value 
 Size 9x9 = 81 compared values
 
-<span style="color: black;">Player Attributes </span>
+Player Attributes
 
 All the player attributes each compared between home players and away players . Each cell represents  value for 
  Cell value = home player value for feature 1 - away player value for feature 1
@@ -71,7 +71,7 @@ Size = 11x11x1
 
 Apply 1x1x19 and reduce the neural network to size 11x11x1 
 
-<span style="color: black;">Other attributes</span> 
+Other attributes
 
 Other feature size = 27
 
