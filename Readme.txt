@@ -2,6 +2,13 @@ Research : - Predicting outcome of football matches  using Convolution neural ne
 
 Trying to predict the outcome of football matches as win, loss or draw. I am trying to use the combination of player attributes, team attributes and match attributes. 
 
+Europian Soccer dataset :- https://www.kaggle.com/hugomathien/soccer
+
+model.ipynb = Predict using combination of player features, team features, and other match related features
+PlayerDetailsPrediction.ipynb = Predict using only player attributes
+TeamAttributesPrediction.ipynb = Predict using only team attributes
+PreProcessing.ipynb = Reorganize the given dataset and combine player, team and match features into one dataset 
+
 Player attributes 
 
 Overall Rating
